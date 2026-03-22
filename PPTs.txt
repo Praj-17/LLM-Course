@@ -9,3 +9,9 @@ https://www.pi.inc/docs/416254158206233?share_token=TM65PFV3HVCCE
 
 NLP Basics + Hugging Face
 https://www.pi.inc/docs/418778361556412?share_token=LA7I5C2YLVTKA
+
+Pytorch - 
+https://www.pi.inc/docs/421296698657352?share_token=RRLFD33OAI7KE
+
+Data cleaning and Preparation 
+https://www.pi.inc/docs/423889352038713?share_token=YLIOFMF4EI6KQ
